@@ -1,4 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# E-commerce Frontend Structure with i18n
+
+This project is a frontend structure for an e-commerce application built with Next.js, featuring multilingual support using `next-intl` for Arabic and English localization.
+
+The focus of this project is on building a scalable architecture and implementing internationalization rather than full business logic.
+
+## Features
+
+* 🌐 Multi-language support (Arabic & English)
+* 🔄 Language switching using next-intl
+* 📁 Scalable and organized folder structure
+* 🧩 Reusable components architecture
+* 🛣️ Next.js routing structure
+* ⚙️ Ready for full e-commerce integration
+
+## Purpose
+
+This project was created to practice building real-world scalable frontend applications with internationalization support using Next.js and next-intl.
 
 ## Getting Started
 
